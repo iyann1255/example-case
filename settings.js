@@ -11,15 +11,15 @@ global.APIKeys = {
 }
 
 global.namabot = "Bot Store"
-global.namaowner = "Zeeoneofc"
+global.namaowner = "Zee"
 global.packname = namabot
 global.author = namaowner
-global.myweb = "https://s.id/zeeoneofc"
+global.myweb = "https://s.id/zee"
 global.footer_text = "© " + namabot
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
-global.owner = ['62887435047326']
-global.pairingNumber = "" //pairing number to install bot 
+global.owner = ['6289516947204' ]
+global.pairingNumber = "62858821201799" //pairing number to install bot 
 global.sessionName = 'session'
 global.background = "https://telegra.ph/file/40342e0085d521cb8b907.jpg" //maks size 50kb agar welcome nya gk lemot
 global.prefa = ['-_-']
@@ -31,7 +31,7 @@ global.mess = {
     botNotAdmin: '_Jadikan Bot Sebagai Admin Terlebih Dahulu_',
     owner: '_Fitur Khusus Owner Bot_',
     group: '_Fitur Khusus Dalam Group_',
-}
+	}
 global.butwel =  [{
    buttonId: '.menu',
    buttonText: {
